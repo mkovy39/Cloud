@@ -1,6 +1,3 @@
-```markdown
-# CloudFront Configuration for S3 Static Website
-
 This guide walks through setting up Amazon CloudFront as a CDN for your S3-hosted static website, enabling fast global delivery, HTTPS, and caching.
 
 ---
