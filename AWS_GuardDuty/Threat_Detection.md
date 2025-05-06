@@ -135,9 +135,5 @@ You’ll receive an email like this when a finding occurs:
 ## Author
 
 **Md Khiruzzaman**
-
 Cloud Engineering Intern
-
 GitHub: [mkovy39](https://github.com/mkovy39)
-
-```
