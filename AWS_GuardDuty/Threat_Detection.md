@@ -17,17 +17,17 @@ You will:
 
 ```
 
-\[EC2 Instance]
-|
+[EC2 Instance]
+↓
 Simulated Threat
 ↓
-\[GuardDuty]
+[GuardDuty]
 ↓
-\[Amazon EventBridge Rule]
+[Amazon EventBridge Rule]
 ↓
-\[Amazon SNS Topic]
+[Amazon SNS Topic]
 ↓
-\[Email Notification]
+[Email Notification]
 
 ````
 
