@@ -1,7 +1,7 @@
 ```markdown
-# 🛡️ AWS GuardDuty Threat Detection Project
+# AWS GuardDuty Threat Detection Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project demonstrates how to simulate and detect suspicious behavior on an EC2 instance using **Amazon GuardDuty**, and send real-time alerts to an email via **SNS (Simple Notification Service)**.
 
@@ -14,7 +14,7 @@ You will:
 
 ---
 
-## ⚙️ Architecture
+## Architecture
 
 ```
 
@@ -32,7 +32,6 @@ Simulated Threat
 
 ````
 
----
 
 ## 🚀 Steps to Deploy
 
@@ -119,19 +118,6 @@ You’ll receive an email like this when a finding occurs:
 * SNS + EventBridge is ideal for automated alerting
 * Simulated attacks help test detection pipelines safely
 
----
-
-## 📁 Folder Structure
-
-```
-.
-├── README.md
-├── ec2-userdata.sh          # EC2 startup script
-├── generate-findings.sh     # AWS CLI script to generate test findings
-└── screenshots/             # Optional: add your setup and output images
-```
-
----
 
 ## 🛡️ Security Note
 
