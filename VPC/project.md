@@ -16,7 +16,7 @@ This project demonstrates the setup of a custom Virtual Private Cloud (VPC) with
 
 Architecture Overview
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./VPC/diagram.jpeg)
 
 ### Description:
 - **Left VPC**:
