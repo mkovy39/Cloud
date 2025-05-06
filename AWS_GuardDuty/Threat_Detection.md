@@ -1,7 +1,3 @@
-Here’s a ready-to-use **GitHub project README** for your **GuardDuty + EC2 + SNS Alert Simulation** project. You can paste this directly into a new repository (`README.md`) on GitHub:
-
----
-
 ```markdown
 # 🛡️ AWS GuardDuty Threat Detection Project
 
