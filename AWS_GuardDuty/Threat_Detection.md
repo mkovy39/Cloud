@@ -1,7 +1,6 @@
-```markdown
-# AWS GuardDuty Threat Detection Project
+#AWS GuardDuty Threat Detection Project
 
-## Project Overview
+##Project Overview
 
 This project demonstrates how to simulate and detect suspicious behavior on an EC2 instance using **Amazon GuardDuty**, and send real-time alerts to an email via **SNS (Simple Notification Service)**.
 
