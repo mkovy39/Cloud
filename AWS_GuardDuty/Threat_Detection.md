@@ -33,7 +33,7 @@ Simulated Threat
 ````
 
 
-## 🚀 Steps to Deploy
+## Steps to Deploy
 
 ### 1. Launch EC2 Instance
 - AMI: Amazon Linux 2 or 2023
@@ -90,7 +90,7 @@ aws guardduty create-sample-findings --detector-id <detector-id>
 
 ---
 
-## 📧 Example Alert Email
+## Example Alert Email
 
 You’ll receive an email like this when a finding occurs:
 
@@ -112,20 +112,20 @@ You’ll receive an email like this when a finding occurs:
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 * GuardDuty detects behavior, not vulnerabilities
 * SNS + EventBridge is ideal for automated alerting
 * Simulated attacks help test detection pipelines safely
 
 
-## 🛡️ Security Note
+## Security Note
 
 > All simulations were conducted in a secure, isolated AWS environment with no real malware or external C2 communication. Never use real attacks in production accounts.
 
 ---
 
-## 📚 References
+## References
 
 * [AWS GuardDuty Documentation](https://docs.aws.amazon.com/guardduty/)
 * [AWS SNS](https://docs.aws.amazon.com/sns/)
@@ -133,15 +133,12 @@ You’ll receive an email like this when a finding occurs:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Md Khiruzzaman**
+
 Cloud Engineering Intern
+
 GitHub: [mkovy39](https://github.com/mkovy39)
 
-```
-
----
-
-Would you like me to generate the folder structure and shell scripts too (`ec2-userdata.sh`, etc.)?
 ```
