@@ -22,14 +22,6 @@ This Lambda function checks the reputation of a given IP address using VirusTota
 - `iam-policy.json`: IAM policy required by Lambda
 - `requirements.txt`: Required Python packages
 
-## Directory Structure
-aws-lambda-ip-reputation-automation/
-├── lambda_function.py
-├── README.md
-├── event.json
-├── iam-policy.json
-└── requirements.txt
-
 ## Deployment
 
 1. Zip the code and deploy to AWS Lambda.
